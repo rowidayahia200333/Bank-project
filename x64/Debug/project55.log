@@ -1,0 +1,45 @@
+﻿  Admin.cpp
+  AdminManager.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'AdminManager.cpp')
+  
+  Client.cpp
+  ClientManager.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ClientManager.cpp')
+  
+  DataEntry.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DataEntry.cpp')
+  
+  DataSourceInterface.cpp
+  Employee.cpp
+  EmployeeManager.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'EmployeeManager.cpp')
+  
+  FileManager.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'FileManager.cpp')
+  
+  FilesHelper.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'FilesHelper.cpp')
+  
+  Parser.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Parser.cpp')
+  
+  Person.cpp
+  project55.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'project55.cpp')
+  
+  Screen.cpp
+C:\Users\Lenovo\source\repos\project55\project55\Parser.h(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Screen.cpp')
+  
+  String_Util.cpp
+  Validation.cpp
+  Generating Code...
+  project55.vcxproj -> C:\Users\Lenovo\source\repos\project55\x64\Debug\project55.exe
